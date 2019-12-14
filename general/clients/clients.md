@@ -74,6 +74,17 @@ A cross-platform desktop media interface using Electron supporting Windows, MacO
 
 * [GitHub](https://github.com/jellyfin/jellyfin-theater-electron)
 
+### Windows 10 (UWP)
+
+A wrapper around the Jellyfin Web browser that works on UWP platforms like Windows 10 and Xbox One.
+This may eventually become a fully native app in the future.
+
+**Status:** ✅ In development
+
+**Links:**
+
+* [GitHub](https://github.com/jellyfin/jellyfin-uwp)
+
 ### Raspberry Pi
 
 A desktop media interface for the Raspberry Pi.
